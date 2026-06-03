@@ -68,6 +68,12 @@ button.cancel {
   color: royalblue;
 }
 
+
+
+
+
+
+
 /* SOLUTION: */
 
 .modal {
@@ -81,6 +87,11 @@ button.cancel {
   flex-shrink: 0;
 }
 /* header container should be wrapped around the button element as well in order for flex style to work */
+
+
+
+
+
 .header {
   display: flex;
   align-items: center;
